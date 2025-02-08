@@ -1,22 +1,25 @@
 # My Portfolio
 
-👋 Hi, I'm [Your Name] – a software developer and data engineer with a background in post-production.
+👋 Hi, I'm Mike Bibeau – a software developer and data engineer with a background in post-production. I specialize in building data-driven applications, automating workflows, and integrating cloud-based solutions.
 
 ## 🚀 Featured Projects
 
-### [Flask Web App](https://github.com/yourusername/flask-web-app)
-A Flask-based web application with a MySQL database, deployed using Cloud Run.
+### [📌 CS50P Final Project](https://github.com/MR-8264/cs50p-final)
+A Python-based application developed as my final project for Harvard's CS50P course. Demonstrates proficiency in Python fundamentals, scripting, and problem-solving.
 
-### [Reddit Stock Sentiment Analysis](https://github.com/yourusername/reddit-stock-sentiment)
-A Python script that scrapes Reddit for stock mentions, validates tickers, and performs sentiment analysis.
+### [🔗 Match Codes](https://github.com/MR-8264/match-codes)
+A Flask-based web application designed to generate and verify match codes. Utilizes backend logic to handle user input and validation, making it useful for authentication or verification systems.
 
-### [BigQuery & Looker Data Pipeline](https://github.com/yourusername/bigquery-looker-pipeline)
-A data pipeline using FiveTran and Python to aggregate data for Looker dashboards.
+### [🖥️ Database Front End](https://github.com/MR-8264/database-front-end)
+A front-end interface for interacting with a MySQL database. Built with Flask, it provides a user-friendly way to query and manage data, showcasing both database integration and UI development.
 
 ## 🛠️ Skills & Technologies
 - **Programming:** Python, JavaScript
-- **Databases:** MySQL, PostgreSQL, BigQuery
-- **Cloud:** Google Cloud Platform, Railway
-- **DevOps:** Docker, GitHub Actions
+- **Web Development:** Flask, HTML/CSS
+- **Databases:** MySQL, PostgreSQL
+- **Cloud & DevOps:** Google Cloud Platform, Docker, GitHub Actions
+- **Data & Automation:** API integrations, workflow automation
 
-📫 **Connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile)**.
+## 📫 Let's Connect!
+- **GitHub:** [github.com/MR-8264](https://github.com/MR-8264)
+- **Email:** [michaelrbibeau@gmail.com](#)
