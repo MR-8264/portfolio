@@ -1,6 +1,6 @@
 # My Portfolio
 
-👋 Hi, I'm Mike Bibeau – a software developer and data engineer with a background in television post-production. I specialize in building data-driven applications, automating workflows, and integrating cloud-based solutions.
+Hi, I'm Mike Bibeau – a software developer and data engineer with a background in television post-production. I specialize in building data-driven applications, automating workflows, and integrating cloud-based solutions.
 
 ## 🚀 Featured Projects
 
